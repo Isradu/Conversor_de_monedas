@@ -1,0 +1,52 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# Archivos compilados de Java
+*.class
+
+# Archivos de logs
+*.log
+
+# Archivos de configuración local con secretos
+config.properties
+*.secret
+
+# Directorios de IDE
+.idea/
+*.iml
+nbproject/
+*.nbattrs
+
+# Directorios de build
+target/
+build/
+
+# Archivos de sistema operativo
+Thumbs.db
